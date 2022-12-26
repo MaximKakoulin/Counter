@@ -13,6 +13,7 @@ class ViewController: UIViewController {
             updateCounterLabel()
         }
     }
+
     @IBOutlet weak var removeButton: UIButton!
     @IBOutlet weak var appendButton: UIButton!
     @IBOutlet weak var counterLabel: UILabel!
